@@ -3,6 +3,12 @@
 Versions of the landing page. Each one is tagged `vX.Y.Z` in git, and the
 version is also in the `<meta name="version">` tag of every page.
 
+## [0.3.0] - 2026-11-01
+
+### Changed
+- Privacy policy: ghost votes are gone from the game, so they are no longer
+  listed in what other players receive.
+
 ## [0.2.0] - 2026-10-31
 
 ### Changed
