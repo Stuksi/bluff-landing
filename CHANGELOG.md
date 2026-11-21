@@ -3,6 +3,12 @@
 Versions of the landing page. Each one is tagged `vX.Y.Z` in git, and the
 version is also in the `<meta name="version">` tag of every page.
 
+## [0.5.0] - 2026-11-21
+
+### Changed
+- Privacy policy: the contact address for questions,
+  bluff.game.support@gmail.com.
+
 ## [0.4.0] - 2026-11-21
 
 ### Changed
