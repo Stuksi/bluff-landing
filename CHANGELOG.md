@@ -3,6 +3,12 @@
 Versions of the landing page. Each one is tagged `vX.Y.Z` in git, and the
 version is also in the `<meta name="version">` tag of every page.
 
+## [0.4.0] - 2026-11-21
+
+### Changed
+- Bluff comes to Steam for Windows first. Linux follows once it has been
+  tested on a real Linux desktop.
+
 ## [0.3.0] - 2026-11-01
 
 ### Changed
